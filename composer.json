@@ -54,10 +54,6 @@
         "phpmd/phpmd": "2.11.1"
     },
     "require-dev": {
-        "phpunit/phpunit": "*",
-        "symfony/var-dumper": "5.4.5",
-        "squizlabs/php_codesniffer": "3.6.2",
-        "friendsofphp/php-cs-fixer": "3.6.0",
-        "phpmd/phpmd": "2.11.1"
+       
     }
 }
